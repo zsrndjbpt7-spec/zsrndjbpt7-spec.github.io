@@ -8,4 +8,4 @@ Materia: TP06_2
 
 Tecnologías utilizadas: HTML y CSS.
 
-Sitio publicado: https://zsrndjbpt7-spec.github.io/GERVASOINI_MAIRA.github.io/
+Sitio publicado: https://zsrndjbpt7-spec.github.io/?utm_source=chatgpt.com
